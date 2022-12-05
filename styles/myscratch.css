@@ -1,0 +1,38 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.myimg{
+    width: 50% ;
+}
+.myfooter{
+    font-style: italic;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.mytitle{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    
+}
+body{
+    background-image: url(../img/bg2.jpg);
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mylinks{
+    text-align: center;
+    color: whitesmoke;
+    font-size: large;
+    
+}

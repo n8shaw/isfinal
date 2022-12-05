@@ -1,0 +1,27 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-style: italic;
+}
+.mytitle{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.mybimg{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25% !important;
+    width: 25% !important;
+}
